@@ -1,3 +1,2 @@
 print ("Что нового?")
 print ("How are you doing?")
-я добавил кое-что
