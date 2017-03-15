@@ -1,3 +1,5 @@
 print ("Что нового;")
 print ("How are you doing;")
-print ("ЧТо-то новое при слиянии")
+print ("ЧТо-то новое при слиянии;")
+print ("Finished!")
+print ("Go away!")
