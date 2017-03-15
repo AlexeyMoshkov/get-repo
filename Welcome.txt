@@ -1,2 +1,2 @@
-print ("Что нового?")
-print ("How are you doing?")
+print ("Что нового;")
+print ("How are you doing;")
